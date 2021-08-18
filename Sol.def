@@ -1,0 +1,19 @@
+[Info]
+name="Sam & Ixnaydk Solzin"
+displayname="Sol Badguy"
+versiondate=
+mugenversion=
+author="Sam & Ixnaydk"
+pal.defaults=1,2,3,4,5,6,7,8,9,10,11,12
+[Files]
+sprite=sol.sff
+sound=
+anim=sol.air
+cmd=sol.cmd
+cns=constants.cns
+st=basic.st
+st1=mini.st
+stcommon=common.cns
+pal1=1.ACT
+pal2=2.ACT
+
